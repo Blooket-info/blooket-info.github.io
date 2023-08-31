@@ -1,4 +1,4 @@
-# THIS IS NOT COMPLETE YET
+# THIS IS NOT COMPLETE YET!!!!!!!!!!!!
 
 # the-potato-1.github.io/Blooket
 this is a updated version of blooket.github.io
