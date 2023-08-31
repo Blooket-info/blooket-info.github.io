@@ -1,6 +1,6 @@
 # THIS IS NOT COMPLETE YET!!!!!!!!!!!!
 
-# the-potato-1.github.io/Blooket
+# blooket-info.github.io
 this is a updated version of blooket.github.io
 
 suggest something [here](https://forms.gle/ULnQj7pWKTjLxZRR8)
